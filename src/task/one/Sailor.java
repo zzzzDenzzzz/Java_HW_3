@@ -1,7 +1,7 @@
 package task.one;
 import static java.lang.System.*;
 
-class Sailor extends Human {
+public class Sailor extends Human {
     private String shipName;
 
     // Конструктор класса Sailor

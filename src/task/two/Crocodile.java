@@ -1,7 +1,7 @@
 package task.two;
 import static java.lang.System.*;
 
-class Crocodile extends Animal {
+public class Crocodile extends Animal {
     private int length;
 
     public Crocodile(String name, int age, int length) {

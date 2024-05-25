@@ -1,7 +1,7 @@
 package task.two;
 import static java.lang.System.*;
 
-class Tiger extends Animal {
+public class Tiger extends Animal {
     private String type;
 
     public Tiger(String name, int age, String type) {

@@ -1,7 +1,7 @@
 package task.two;
 import static java.lang.System.*;
 
-class Kangaroo extends Animal {
+public class Kangaroo extends Animal {
     private int jumpHeight;
 
     public Kangaroo(String name, int age, int jumpHeight) {

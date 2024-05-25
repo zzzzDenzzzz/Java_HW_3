@@ -1,7 +1,7 @@
 package task.one;
 import static java.lang.System.*;
 
-class Pilot extends Human {
+public class Pilot extends Human {
     private String aircraftType;
 
     // Конструктор класса Pilot
